@@ -5,4 +5,6 @@ figlet能将可打印ASCII字符转换成由类似'#','@','/'符号组成的"艺
 本代码基于官网源码对其进行简化处理，给出了一个测试字模3-d.flf文件<br>
 官网地址<br>
 figlet.org<br>   
-http://www.figlet.org/
+http://www.figlet.org/  
+  ##### 截图  
+  ![figlet](https://raw.githubusercontent.com/Yanye0xFF/PictureBed/master/images/figlet/screenshoot.png)  
